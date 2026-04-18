@@ -33,5 +33,6 @@ GitHub: https://github.com/Muzammil-srec
 
 ## 💡 Future Improvements
 - Dark mode 🌙  
-- Drag & drop tasks  
+- Drag and drop tasks  
 - Backend integration  
+- User authentication  
