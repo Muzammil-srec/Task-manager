@@ -21,16 +21,6 @@ A modern and responsive Task Manager built using HTML, CSS, and JavaScript with 
 
 ---
 
-## 📸 Demo
-(Add screenshot here later)
-
----
-
-## 🚀 Live Demo
-(Add GitHub Pages link here)
-
----
-
 ## 👨‍💻 Author
 **Muzammil**  
 GitHub: https://github.com/Muzammil-srec  
